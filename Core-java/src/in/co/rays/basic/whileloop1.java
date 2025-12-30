@@ -1,0 +1,15 @@
+package in.co.rays.basic;
+
+public class whileloop1 {
+
+	public static void main(String[] args) {
+	int i = 12;
+	
+	while(i >= 1) {
+		System.out.println("sum pf while loop" + i);
+		i--;
+	}
+
+	}
+
+}
